@@ -115,11 +115,11 @@ pip install pandas matplotlib
 
 ### Department-wise Employee Count
 
-![Department-wise Employee Count](Employee Data Analysis System\Screenshot/Department_wise_Employee_Count.png)
+![Department-wise Employee Count](E:\Python_Projects\Employee Data Analysis System\Screenshot\Department_wise_Employee_Count.png)
 
 ### Department-wise Average Salary
 
-![Department-wise Average Salary](Employee Data Analysis System\Screenshot/Department_wise_Average_Salary.png)
+![Department-wise Average Salary](E:\Python_Projects\Employee Data Analysis System\Screenshot\Department_wise_Average_Salary.png)
 
 ### Salary Distribution
 
