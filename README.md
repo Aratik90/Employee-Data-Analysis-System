@@ -115,23 +115,23 @@ pip install pandas matplotlib
 
 ### Department-wise Employee Count
 
-![Department-wise Employee Count](E:\Python_Projects\Employee Data Analysis System\Screenshot\Department_wise_Employee_Count.png)
+![Department-wise Employee Count](Department_wise_Employee_Count.png)
 
 ### Department-wise Average Salary
 
-![Department-wise Average Salary](E:\Python_Projects\Employee Data Analysis System\Screenshot\Department_wise_Average_Salary.png)
+![Department-wise Average Salary](Department_wise_Average_Salary.png)
 
 ### Salary Distribution
 
-![Salary Distribution](Employee Data Analysis System\Screenshot/Salary_Distribution.png)
+![Salary Distribution](Salary_Distribution.png)
 
 ### Employees by City
 
-![Employees by City](Employee Data Analysis System\Screenshot/Employee_by_City.png)
+![Employees by City](Employee_by_City.png)
 
 ### Top 5 Highest Paid Employees
 
-! [Top5_Highest_paid_Employee](Employee Data Analysis System\Screenshot/Top5_Highest_Paid_Employees.png)
+! [Top5_Highest_paid_Employee](Top5_Highest_paid_Employee.png)
 ---
 
 ## 👩‍💻 Author
